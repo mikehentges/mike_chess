@@ -51,3 +51,5 @@ MikeChessDataHelper.prototype.formatAirportStatus = function(airportStatus) {
 };
 
 module.exports = MikeChessDataHelper;
+
+
